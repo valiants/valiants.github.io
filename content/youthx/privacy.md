@@ -1,5 +1,5 @@
 ---
-title: 'Privacy Policy'
+title: 'Chính sách bảo mật và quyền riêng tư'
 date: 2022-09-27T00:00:00+00:00
 ---
 
