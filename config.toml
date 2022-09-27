@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://valiants.github.io"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
