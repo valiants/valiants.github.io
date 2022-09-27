@@ -1,6 +1,6 @@
 ---
 title: 'Privacy Policy'
-date: 2018-02-22T17:01:34+07:00
+date: 2022-09-27T00:00:00+00:00
 ---
 
 ## I. Tổ chức thu thập và quản lý Thông tin Cá nhân của Khách Hàng
@@ -43,7 +43,7 @@ Trên Ứng dụng có thể có các đường liên kết với các trang m�
 
 Thông tin cá nhân của Khách Hàng sẽ được lưu giữ trong hệ thống máy chủ của Ứng dụng của chúng tôi trong vòng 10 năm kể từ sau lần cuối cùng bạn tương tác với Ứng dụng của chúng tôi hoặc cho đến khi chúng tôi nhận được yêu cầu xóa thông tin cá nhân của Khách Hàng.
 
-# VIII. Truy cập vào Thông tin Cá nhân
+## VIII. Truy cập vào Thông tin Cá nhân
 
 Chúng tôi bảo đảm quyền truy cập của bạn đối với toàn bộ thông tin về tài khoản và tương tác của Khách Hàng với YouthX và người bán trên Ứng dụng, để xem và trong trường hợp nhất định, cập nhật hoặc sửa đổi những thông tin đó. Khách Hàng có thể chỉnh sửa thông tin cá nhân trong hồ sơ của Khách Hàng trên Ứng dụng.
 
